@@ -8,4 +8,4 @@
 * ✨ What I do in my spare time:
   - 🎮 I play Lost Ark and Teamfight Tacticts
   - 📖 I read fantasy, thrillers and self-improvement books
-  - 🏋️‍♀️ I work out through resistance training, yoga, pilates and jogging
+  - 🏋️‍♀️ I work out through resistance training, yoga and jogging
