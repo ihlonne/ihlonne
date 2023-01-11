@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-* 💻 I'm a certified data electronics technician looking to transition into Front-end development
+* 💻 I'm a certified data electronics technician working as IT Support @GE HealthCare, looking to transition into Front-end development
 * 🌱 I'm currently learning about JavaScript and React
 * ✨ What I do in my spare time:
   - 🎮 I play Teamfight Tacticts
