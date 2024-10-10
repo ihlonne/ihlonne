@@ -25,6 +25,6 @@ console.log(ingelinn);
 <a href="mailto:ingelinn92@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-262626?style=flat&logo=gmail&logoColor=white" alt="LinkedIn" style="border-radius: 5px;"/>
 </a>
-<a href="https://yourportfolio.com/" target="_blank">
+<a href="https://ihlonne-portfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-262626?style=flat&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 5px;"/>
 </a>
