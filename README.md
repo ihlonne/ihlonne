@@ -1,12 +1,30 @@
-# Hello world, I'm Ingelinn 👋
+# Hello world 🍂
 
-### ABOUT ME
+```javascript
+const ingelinn = {
+  education: "Student at Noroff Education, studying Front-end Development",
+  currently: "Learning JavaScript and using APIs",
+  skills: ["HTML", "CSS", "JavaScript", "APIs"],
+  certifications: ["Certified Data Electronics Technician"],
+  hobbies: {
+    gaming: ["Teamfight Tactics", "Baldur's Gate 3"],
+    reading: ["Fantasy", "Thriller", "Romance", "Self-improvement"],
+    fitness: ["Weights", "Jogging"],
+    crafts: ["Knitting"],
+    food: ["Cooking", "Baking", "Sourdough"]
+  },
+  funFact: "My nose moves like a rabbit when I knit 🐰"
+};
 
-* 🌱 I am a student at Noroff Education enrolled to study front-end development
-* 👩🏼‍💻 I am currently learning about JavaScript and using APIs
-* 💻 I am a certified data electronics technician 
-* ✨ What I do in my spare time:
-  - 🎮 I play Teamfight Tacticts and Baldur's Gate 3
-  - 📖 I read fantasy, thrillers and self-improvement books
-  - 🏋️‍♀️ I enjoy resistance training, yoga and jogging
-  - 🧶 I constantly have four knitting projects lying around
+console.log(ingelinn);
+```
+🍂 Connect with me!<br><br>
+<a href="https://www.linkedin.com/in/ingelinnhelenelonne/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-262626?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;"/>
+</a>
+<a href="mailto:ingelinn92@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-262626?style=flat&logo=gmail&logoColor=white" alt="LinkedIn" style="border-radius: 5px;"/>
+</a>
+<a href="https://yourportfolio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-262626?style=flat&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 5px;"/>
+</a>
