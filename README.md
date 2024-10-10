@@ -13,7 +13,7 @@ const ingelinn = {
     crafts: ["Knitting"],
     food: ["Cooking", "Baking", "Sourdough"]
   },
-  funFact: "My nose moves like a rabbit when I knit 🐰"
+  funFact: "My nose moves like a bunny when I knit 🐰"
 };
 
 console.log(ingelinn);
