@@ -7,7 +7,7 @@ const ingelinn = {
   skills: ["HTML", "CSS", "JavaScript", "APIs"],
   certifications: ["Certified Data Electronics Technician"],
   hobbies: {
-    gaming: ["Teamfight Tactics", "Baldur's Gate 3"],
+    gaming: ["Teamfight Tactics", "Baldur's Gate 3", "World of Warcraft"],
     reading: ["Fantasy", "Thriller", "Romance", "Self-improvement"],
     fitness: ["Weights", "Jogging"],
     crafts: ["Knitting"],
