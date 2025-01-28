@@ -4,7 +4,7 @@
 const ingelinn = {
   education: "Student at Noroff Education, studying Front-end Development",
   currently: "Learning JavaScript and using APIs",
-  skills: ["HTML", "CSS", "JavaScript", "APIs"],
+  skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs"],
   certifications: ["Certified Data Electronics Technician"],
   hobbies: {
     gaming: ["Teamfight Tactics", "Baldur's Gate 3", "World of Warcraft"],
