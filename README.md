@@ -1,19 +1,19 @@
-# Hello world 🍂
+# Hello world 🌸
 
 ```javascript
 const ingelinn = {
   education: "Student at Noroff Education, studying Front-end Development",
-  currently: "Learning JavaScript and using APIs",
-  skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs"],
+  currently: "Diving deeper into React and TypeScript",
+  skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs", "Chakra UI", "React", "TypeScript"],
   certifications: ["Certified Data Electronics Technician"],
   hobbies: {
-    gaming: ["Teamfight Tactics", "Baldur's Gate 3", "World of Warcraft"],
+    gaming: ["Teamfight Tactics", "Baldur's Gate 3"],
     reading: ["Fantasy", "Thriller", "Romance", "Self-improvement"],
     fitness: ["Weights", "Jogging"],
     crafts: ["Knitting"],
     food: ["Cooking", "Baking", "Sourdough"]
   },
-  funFact: "My nose moves like a bunny when I knit 🐰"
+  funFact: "I used to play competitive bowling and I won U23 NM in doubles with my teammate in 2013."
 };
 
 console.log(ingelinn);
