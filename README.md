@@ -3,7 +3,8 @@
 ```javascript
 const ingelinn = {
   education: "Student at Noroff Education, studying Front-end Development",
-  currently: "Diving deeper into React and TypeScript, as well as dipping my toe into C#",
+  goals: ["Become a confident fullstack developer", "Hold a tech talk/workshop someday"],
+  currently: "Diving deeper into React and TypeScript, and starting to explore C#",
   skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs", "Chakra UI", "React", "TypeScript"],
   certifications: ["Certified Data Electronics Technician"],
   hobbies: {
