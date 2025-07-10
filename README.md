@@ -3,13 +3,13 @@
 ```javascript
 const ingelinn = {
   education: "Student at Noroff Education, studying Front-end Development",
-  currently: "Diving deeper into React and TypeScript",
+  currently: "Diving deeper into React and TypeScript, as well as dipping my toe into C#",
   skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs", "Chakra UI", "React", "TypeScript"],
   certifications: ["Certified Data Electronics Technician"],
   hobbies: {
     gaming: ["Teamfight Tactics", "Baldur's Gate 3"],
-    reading: ["Fantasy", "Thriller", "Romance", "Self-improvement"],
-    fitness: ["Weights", "Jogging"],
+    reading: ["Fantasy", "Thriller", "Romance"],
+    fitness: ["Weights", "Jogging", "Calisthenics"],
     crafts: ["Knitting"],
     food: ["Cooking", "Baking", "Sourdough"]
   },
