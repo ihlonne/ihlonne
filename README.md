@@ -2,7 +2,8 @@
 
 ```javascript
 const ingelinn = {
-  education: "Student at Noroff Education, studying Front-end Development",
+work: "Application Developer @ Framo Services starting November '25",
+  education: "Front-end Development, Noroff Higher Education",
   goals: ["Become a confident fullstack developer", "Hold a tech talk/workshop someday"],
   currently: "Diving deeper into React and TypeScript, and starting to explore C#",
   skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs", "Chakra UI", "React", "TypeScript"],
