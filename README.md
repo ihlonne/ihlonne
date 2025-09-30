@@ -5,13 +5,13 @@ const ingelinn = {
   work: "Application Developer @ Framo Services starting November '25",
   education: "Front-end Development, Noroff School of Technology and Digital Media",
   goals: ["Become a confident fullstack developer", "Hold a tech talk/workshop someday"],
-  currently: "Diving deeper into React and TypeScript, and starting to explore C#",
+  currently: "Diving deeper into React and TypeScript",
   skills: ["HTML", "CSS", "Tailwind", "JavaScript", "APIs", "Chakra UI", "React", "TypeScript"],
   certifications: ["Certified Data Electronics Technician"],
   hobbies: {
     gaming: ["Teamfight Tactics", "Baldur's Gate 3"],
-    reading: ["Fantasy", "Thriller", "Romance"],
-    fitness: ["Weights", "Jogging", "Calisthenics"],
+    reading: ["Fantasy", "Thriller", "Romance", "Histotical Fiction"],
+    fitness: ["Weights", "Jogging"],
     crafts: ["Knitting"],
     food: ["Cooking", "Baking", "Sourdough"]
   },
